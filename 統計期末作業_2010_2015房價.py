@@ -28,15 +28,8 @@ for i in line_1:
         j_total.append(j)
     else:
         pass
-    # house_adress.append(j[0])
-    # house_tr_year.append(j[1])
-    # house_total_price.append(j[2])
-    # house_unit_price.append(j[3])
-    # house_unit.append(j[4])
-    # house_category.append(j[6])
-    # house_year.append(j[7])
-    # j_total.append(j)
 
+# printing test
 # i = 71
 # print(house_adress[i], house_tr_year[i], house_total_price[i], house_unit_price[i], house_unit[i], house_category[i], house_year[i])
 # print(type(house_year[i]))
@@ -44,6 +37,7 @@ for i in line_1:
 
 statisitic_lens = len(house_adress)
 
+# printing test
 # for i in range(statisitic_lens):
     # print(house_adress[i], house_tr_year[i], house_total_price[i], house_unit_price[i], house_unit[i], house_category[i], house_year[i])
 
